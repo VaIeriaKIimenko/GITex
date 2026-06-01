@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+.training{
+    color: blue;
+    /*border: 1px;
+    width: ;
+    height: ;
+    margin: ;
+    border ;
+    outline ;*/
+}
+li.training{
+    font-size: 22px;
+}
+#top{
+    background-color: brown;
+}
+a{
+    color: rgb(241, 155, 50);
+}
+/*
+li a{
+    color: rgb(15, 218, 161);
+}
+div{
+    background-color: bisque;
+}
+*/
+div > a{
+    /*обозначает дочерние селекторы, 20:15 в лекции 22*/
+}
+/*
+a: - псевдоклассы
+добавлять разное поведение
+*/
